@@ -1,7 +1,7 @@
 ## Hi there, I'm Yu-Hsuan (Viola) Ho
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violayhho&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violayhho&layout=compact&theme=vision-friendly-dar" alt="Most Used Languages" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=violayhho&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages" />
 
 **Ph.D. student @ *Texas A&M University*
 
