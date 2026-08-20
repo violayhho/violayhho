@@ -7,6 +7,6 @@
 
 **Ph.D.** @ *Texas A&M University*
 
-I specialize in **Vision-Language-Action**, **Multi-View Perception**, **Multimodal Alignment**, and **Sensor Fusion** for autonomous driving and disaster resilience.
+I specialize in **Vision-Language-Action Models**, **Multi-View Perception**, **Multimodal Alignment**, and **Sensor Fusion** for autonomous driving and disaster resilience.
 
 
