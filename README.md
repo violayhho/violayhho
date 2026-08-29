@@ -5,7 +5,7 @@
 -->
 <img align="right" src="https://github-readme-stats-4kf5.vercel.app/api/top-langs/?username=violayhho&layout=compact&theme=vision-friendly-dark&hide_border=false&bg_color=161B22&hide=jupyter%20notebook&count_private=false&cache_seconds=14400" alt="Most Used Languages" />
 
-Ex-Software Engineer Research Intern @ Zoox, Ph.D. @ Texas A&M University
+Ex-Research Intern @ Zoox, Ph.D. @ Texas A&M University
 
 I specialize in **Vision-Language-Action Models**, **Multi-View Perception**, **Multimodal Alignment**, and **Sensor Fusion** for autonomous driving and disaster resilience.
 
